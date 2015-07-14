@@ -2,7 +2,7 @@
 Identity Resolver
 
 <p>
-Files
+Files:
 <ul>
 <li>readme.txt</li>
 <li>resolve_id.py</li>
