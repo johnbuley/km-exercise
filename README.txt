@@ -3,7 +3,7 @@ resolve_id
 
 Usage:
 	
-python resolve_id <anonymous identifier> <database filename>
+python resolve_id.py <anonymous identifier> <database filename>
 
 -compiles with Python 3.4
 -requires tokyo-python wrapper of tokyocabinet library
